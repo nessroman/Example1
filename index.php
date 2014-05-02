@@ -11,7 +11,7 @@
 	<body>
 	<?php 
 		// Esto es un ejemplo para que puedan ir agregando código aquí y enviando los commits
-		
+		// Otro ejemplo
 	?>
 	</body>
 </html>
